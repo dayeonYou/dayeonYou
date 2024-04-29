@@ -1,6 +1,9 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayeonYou&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dayeonYou&show_icons=true&theme=radical)
+<div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical" style="flex: 1;">
+</div>
+
 
 <!--
 **dayeonYou/dayeonYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
