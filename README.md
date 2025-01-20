@@ -1,31 +1,32 @@
 ### Hi there 👋 Welcome to my GitHub Profile!
 
 ---
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dayeonYou&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayeonYou&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</div>
-
+</div> 
+!-->
 ---
 
 ### 👩‍💻 About Me
-- 🔭 **I’m currently working on**: Innovative software development projects and exploring AI & IoT integration.
+<!--- 🔭 **I’m currently working on**: Innovative software development projects and exploring AI & IoT integration. -->
 - 🌱 **I’m currently learning**: Advanced Spring Boot, React, and Docker.
 - 👯 **I’m looking to collaborate on**: Open-source projects related to Smart City Platforms.
-- 📫 **How to reach me**: [Email Me](mailto:youremail@example.com) or [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- 📫 **How to reach me**: [Email Me](mailto:dayeonyoo33@gmail.com)
+<!--- 📫 **How to reach me**: [Email Me](mailto:youremail@example.com) or [LinkedIn](https://www.linkedin.com/in/yourprofile/) -->
 - ⚡ **Fun fact**: I love solving puzzles and debugging is my favorite pastime!
 
 ---
 
 ### 🌟 My Projects
-🚀 [**ADHD Treatment Game**](https://github.com/yourrepo)  
+🚀 [**ADHD Treatment Game**](https://github.com/dayeonYou/StarGuide_ByeolAttie)  
 🎮 A game designed to help ADHD patients using eye-tracking technology (Unity, SeeSo SDK, Firebase).  
 
-🌐 [**Smart Home Lighting System**](https://github.com/yourrepo)  
+🌐 [**Smart Home Lighting System**](https://github.com/Smart_FrontDoor_Lighting_System)  
 💡 IoT-based dynamic lighting system that adapts to weather conditions (Spring Boot, React Native, Arduino).  
 
-🌊 [**Marine Waste Management System**](https://github.com/yourrepo)  
+🌊 [**Marine Waste Management System**](https://github.com/BUSAN)  
 📊 Real-time waste tracking platform for sustainable development (Spring Boot, MariaDB, React).  
 
 ---
@@ -39,9 +40,9 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+<!---[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
+<!---[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  -->
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dayeonyoo33@gmail.com)
 
 ---
 
