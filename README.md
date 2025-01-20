@@ -33,7 +33,7 @@
 ### 📈 GitHub Analytics
 <div align="center">
   <!--<img src="https://streak-stats.demolab.com?user=dayeonYou&theme=radical" alt="GitHub Streak" width="48%">-->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayeonYou&theme=radical" alt="Profile Summary" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayeonYou&theme=radical" alt="Profile Summary" width="90%">
 </div>
 
 ---
