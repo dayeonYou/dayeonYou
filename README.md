@@ -7,7 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayeonYou&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </div> 
 !-->
----
 
 ### 👩‍💻 About Me
 <!--- 🔭 **I’m currently working on**: Innovative software development projects and exploring AI & IoT integration. -->
