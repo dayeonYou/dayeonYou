@@ -19,14 +19,20 @@
 ---
 
 ### 🌟 My Projects
-🚀 [**ADHD Treatment Game**](https://github.com/dayeonYou/StarGuide_ByeolAttie)  
-🎮 A game designed to help ADHD patients using eye-tracking technology (Unity, SeeSo SDK, Firebase).  
-
 🌐 [**Smart Home Lighting System**](https://github.com/Smart_FrontDoor_Lighting_System)  
 💡 IoT-based dynamic lighting system that adapts to weather conditions (Spring Boot, React Native, Arduino).  
 
 🌊 [**Marine Waste Management System**](https://github.com/BUSAN)  
 📊 Real-time waste tracking platform for sustainable development (Spring Boot, MariaDB, React).  
+
+🚀 [**ADHD Treatment Game**](https://github.com/dayeonYou/StarGuide_ByeolAttie)  
+🎮 A game designed to help ADHD patients using eye-tracking technology (Unity, SeeSo SDK, Firebase).  
+
+💊 [**Drug Information Management System**](https://github.com/Peep_medicine_service)  
+🩺 A real-time drug recognition and information system designed for visually impaired users.  
+- Utilized **YOLOv5** and **OpenCV** for drug detection and image processing.  
+- Backend developed with **Python (Flask)** and integrated with public APIs for accurate drug information.  
+- Deployed on **AWS** to ensure scalability and performance.
 
 ---
 
